@@ -33,7 +33,7 @@ function Footer() {
                 style={{ color: "transparent" }}
               />
             </a>
-            <a target="_blank" href="#">
+            <a target="_blank" href="https://x.com/ZonicChain">
               <img
                 alt="twitter"
                 loading="lazy"
