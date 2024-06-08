@@ -333,7 +333,7 @@ function MainApp() {
                                       {quantity} x Gelios Entry Key
                                     </p>
                                     <p className="flex items-center gap-1 text-gray80">
-                                      <div>0.00713</div>BTC per key
+                                      <div>0.00713</div>ETH per key
                                     </p>
                                   </div>
                                   <div>
